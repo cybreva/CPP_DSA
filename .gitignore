@@ -1,0 +1,6 @@
+#removed binaries 
+
+*.exe
+*.out
+main
+
